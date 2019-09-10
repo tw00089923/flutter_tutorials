@@ -5,4 +5,4 @@ Flare offers powerful realtime vector design and animation for app and game desi
 ## 安裝 Flare Package
 找到 Project/pubspec.yaml 下。
 
-![dependencies]("./src/dependencies_1.png")
+![dependencies]("/src/dependencies_1.png")
