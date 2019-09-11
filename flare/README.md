@@ -4,11 +4,11 @@ Flare 提供開發者使用.flr檔案繪製向量圖形與視覺動畫，開發�
 
 ## 繪製 .flr 向量檔
 a. 先進入[網站](https://www.2dimensions.com/a/tw00089923/files/flare/music-mark)
-![dependencies](src/dependencies_2.png)
+![dependencies](src/dependencies_5.png)
 b. 命稱動畫名稱
 ![dependencies](src/dependencies_4.png)
 c. 將檔案 export
-![dependencies](src/dependencies_3.png)
+![dependencies](src/dependencies_2.png)
 d. 存放檔案 
 /project/assets/file_name.flr
 
