@@ -9,6 +9,7 @@ b. 命稱動畫名稱
 ![dependencies](src/dependencies_4.png)
 c. 將檔案 export
 ![dependencies](src/dependencies_2.png)
+![dependencies](src/dependencies_3.png)
 d. 存放檔案 
 /project/assets/file_name.flr
 
