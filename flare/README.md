@@ -17,14 +17,33 @@
 * d. 存放檔案 
 
 /project/assets/file_name.flr
-** 注意： 路徑請確認正確。
+** 注意： **路徑** 請確認正確。
 
 ## 安裝 Flare Package
 找到 Project/pubspec.yaml 下。
 ![dependencies](src/dependencies_5.png)
 ![dependencies](src/dependencies_6.png)
 
-
+```
+import 'package:flare_flutter/flare_actor.dart';
+class FlareActionBar extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      color: Colors.blueGrey,
+      child: SizedBox(
+        width: 200,
+        height: 200,
+        child: FlareActor(
+          "assets/music_mark.flr",
+          animation: "circle", // <- 動畫名稱
+        ),
+      ),
+    );
+  }
+}
+```
 
 ## 參考
 1. [Flare github](https://github.com/2d-inc/Flare-Flutter)
+2. [Flare example](https://github.com/2d-inc/Flare-Flutter/tree/master/example)
