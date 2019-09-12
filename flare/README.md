@@ -4,7 +4,8 @@
 
 ## 繪製 .flr 向量檔
 * a. 先進入[網站](https://www.2dimensions.com/a/tw00089923/files/flare/music-mark) 並繪製UI圖像
-![dependencies](src/dependencies_1.png){: width:500 }
+![dependencies](src/dependencies_1.png)
+{: width:500 }
 * b. 命稱動畫名稱
 ![dependencies](src/dependencies_2.png)
 * c. 將檔案 export
